@@ -44,23 +44,23 @@ languages:
 - name: French
   percent: 25
 - name: Dutch
-  percent:25
+  percent: 25
 last_name: Leng
-# name_pronunciation: Leng Lu
+name_pronunciation: Leng Lu
 profiles:
 - icon: at-symbol
   label: E-mail Me
   url: mailto:luleng2019@gmail.com
 - icon: brands/x
-  url: https://twitter.com/GetResearchDev
+  url: https://x.com/Lu__Leng
 - icon: brands/github
-  url: https://github.com/gcushen
+  url: https://github.com/Leng-Lu
 - icon: brands/linkedin
-  url: https://www.linkedin.com/
+  url: https://www.linkedin.com/in/lu-leng-55b242242/
 - icon: academicons/google-scholar
-  url: https://scholar.google.com/
+  url: https://scholar.google.com/citations?user=uD3d2e8AAAAJ&hl=en&oi=sra
 - icon: academicons/orcid
-  url: https://orcid.org/
+  url: https://orcid.org/0000-0001-8516-364X
 skills:
 - items:
   - description: ""
