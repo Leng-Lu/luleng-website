@@ -126,7 +126,7 @@ skills:
 status:
   icon: ☕️
 superuser: true
-title: 吳健雄
+title: 冷露
 work:
 - company_logo: ""
   company_name: GenCoin
@@ -152,6 +152,6 @@ work:
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-## About Me
+## Hi there!
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
