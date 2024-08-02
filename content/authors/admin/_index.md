@@ -46,7 +46,7 @@ languages:
 - name: Dutch
   percent:25
 last_name: Leng
-name_pronunciation: Leng Lu
+# name_pronunciation: Leng Lu
 profiles:
 - icon: at-symbol
   label: E-mail Me
@@ -95,30 +95,30 @@ skills:
 status:
   icon: ☕️
 superuser: true
-title: 冷露
-work:
-- company_logo: ""
-  company_name: GenCoin
-  company_url: ""
-  date_end: ""
-  date_start: "2021-01-01"
-  position: Director of Cloud Infrastructure
-  summary: |-
-    Responsibilities include:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-- company_logo: ""
-  company_name: X
-  company_url: ""
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  position: Backend Software Engineer
-  summary: |
-    Responsibilities include:
-    - Migrated infrastructure to a new data center
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+title: Lu Leng
+# work:
+# - company_logo: ""
+#   company_name: GenCoin
+#   company_url: ""
+#   date_end: ""
+#   date_start: "2021-01-01"
+#   position: Director of Cloud Infrastructure
+#   summary: |-
+#     Responsibilities include:
+#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# - company_logo: ""
+#   company_name: X
+#   company_url: ""
+#   date_end: "2020-12-31"
+#   date_start: "2016-01-01"
+#   position: Backend Software Engineer
+#   summary: |
+#     Responsibilities include:
+#     - Migrated infrastructure to a new data center
+#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
 ## Hi there!
