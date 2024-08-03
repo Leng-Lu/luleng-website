@@ -104,6 +104,3 @@ title: Lu Leng
 ## Hi there!
 
 I am Lu Leng, an experimental psychogist who loves coding and making people's life better with that! I will soon finish my doctoral trainning and I am excited for what is out there for me the next!
-
-<i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "media/CV_LuLeng.pdf" "newtab" >}}Download my CV{{< /staticref >}}
-</center> 
