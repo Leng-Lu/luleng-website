@@ -8,7 +8,8 @@ education:
   date_start: "2019-10-01"
   institution: KU Leuven
   summary: |
-    Thesis on _The pleasure of active avoidance_. Supervised by [Prof Bram Vervliet](https://ppw.kuleuven.be/lbp/Bramlab/People/00035504) and [Prof Tom Beckers](https://ppw.kuleuven.be/clep/people/00005902). Published 6 papers in academic journals, received 3 poster awards at international conferences, won the article prize at the international doctoral school. 
+    Thesis on _The pleasure of active avoidance_. Supervised by [Prof Bram Vervliet](https://ppw.kuleuven.be/lbp/Bramlab/People/00035504/) and [Prof Tom Beckers](https://ppw.kuleuven.be/clep/people/00005902/). Published 6 papers in academic journals, received 3 poster awards at international conferences, won the article prize at the international doctoral school. 
+    
 - area: M.Sc. in General Psychology
   date_end: "2019-09-14"
   date_start: "2017-09-01"
@@ -20,6 +21,7 @@ education:
     - Advanced experiment designs
     - Advanced statistics in psychology
     - Programming in R
+    
 - area: B.Sc. Psychology
   date_end: "2017-07-01"
   date_start: "2013-09-01"
@@ -30,12 +32,14 @@ education:
     Courses included:
     - Fundamentals in advanced mathematics
     - Programming in C++
-# first_name: Lu
+    
 highlight_name: true
+
 interests:
 - UX research
 - Marketing research
 - Data analysis
+
 languages:
 - name: English
   percent: 90
@@ -45,7 +49,7 @@ languages:
   percent: 25
 - name: Dutch
   percent: 25
-# last_name: Leng
+
 profiles:
 - icon: at-symbol
   label: E-mail Me
@@ -83,8 +87,8 @@ skills:
     name: Hiking
     percent: 100
   - description: ""
-    icon: dog
-    name: Dogs
+    icon: microphone
+    name: Singing
     percent: 100
   - description: ""
     icon: camera
@@ -100,3 +104,6 @@ title: Lu Leng
 ## Hi there!
 
 I am Lu Leng, an experimental psychogist who loves coding and making people's life better with that! I will soon finish my doctoral trainning and I am excited for what is out there for me the next!
+
+<i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "media/CV_LuLeng.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+</center> 
