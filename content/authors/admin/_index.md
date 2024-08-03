@@ -3,7 +3,7 @@ education:
 - area: Ph.D. in Experimental Psychopathology
   button:
     text: Read Thesis
-    url: https://example.com
+    url: https://kuleuven-my.sharepoint.com/:b:/r/personal/lu_leng_kuleuven_be/Documents/PhD_Lu%20Leng/PhD%20Thesis_Lu%20Leng/Final_PDFs/PhD_Thesis_Lu_Leng.pdf?csf=1&web=1&e=yuf9n0
   date_end: "2024-10-14"
   date_start: "2019-10-01"
   institution: KU Leuven
@@ -30,7 +30,7 @@ education:
     Courses included:
     - Fundamentals in advanced mathematics
     - Programming in C++
-first_name: Lu
+# first_name: Lu
 highlight_name: true
 interests:
 - UX research
@@ -45,8 +45,7 @@ languages:
   percent: 25
 - name: Dutch
   percent: 25
-last_name: Leng
-name_pronunciation: Leng Lu
+# last_name: Leng
 profiles:
 - icon: at-symbol
   label: E-mail Me
@@ -96,31 +95,8 @@ status:
   icon: ☕️
 superuser: true
 title: Lu Leng
-# work:
-# - company_logo: ""
-#   company_name: GenCoin
-#   company_url: ""
-#   date_end: ""
-#   date_start: "2021-01-01"
-#   position: Director of Cloud Infrastructure
-#   summary: |-
-#     Responsibilities include:
-#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-# - company_logo: ""
-#   company_name: X
-#   company_url: ""
-#   date_end: "2020-12-31"
-#   date_start: "2016-01-01"
-#   position: Backend Software Engineer
-#   summary: |
-#     Responsibilities include:
-#     - Migrated infrastructure to a new data center
-#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
 ## Hi there!
 
-I am Lu Leng, an experimental psychogist who loves coding and making people's life better!
+I am Lu Leng, an experimental psychogist who loves coding and making people's life better with that! I will soon finish my doctoral trainning and I am excited for what is out there for me the next!
